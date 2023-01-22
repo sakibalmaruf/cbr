@@ -1,0 +1,59 @@
+/* For All Buttons */
+.btn-click{
+    padding: 10px 46px;
+    background-color: #E76F51;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+/* For All Section HEadings */
+.section-heading{
+    font-size: 48px;
+    font-weight: 600;
+}
+.btn-click:hover{
+    font-weight: bold;
+    background-color: #f16340;
+    color: white;
+}
+/* starting interface */
+.header{
+    background-color: #264653;
+}
+/* featured bikes 2021 */
+.bike-collection{
+    color: #E76F51;
+}
+.featured-gray img{
+    filter: grayscale(100%);
+}
+.featured-normal img{
+    width: 65%;
+}
+/* Happy Clients Says */
+.clients-says{
+    color: #E76F51;
+}
+.user-advice{
+    color: #6C6C6C;
+}
+.font-icon{
+    color: #E77C40;
+}
+.user-name{
+    color: #23A6F0;
+}
+/* Frequently Asked Question */
+.faq-decoration{
+    color: #E76F51;
+}
+/* Bonus Section Get Connected */
+.logo-youtube{
+    color: red;
+}
+.logo-linkedin{
+    color: blue;
+}
+.logo-skype{
+    color: rgb(57, 184, 226);
+}
